@@ -7,7 +7,7 @@ Yuuki:
 
 LINE:
   Server:
-    Host: https://example.com
+    Host: http://gd2.line.naver.jp
     Command_Path: /example_path
     LongPoll_path: /example_path
 
