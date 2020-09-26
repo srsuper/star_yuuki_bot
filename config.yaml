@@ -8,8 +8,8 @@ Yuuki:
 LINE:
   Server:
     Host: http://gd2.line.naver.jp
-    Command_Path: /example_path
-    LongPoll_path: /example_path
+    Command_Path: /lib
+    LongPoll_path: /lib
 
   Account:
     X-Line-Application: LINE_Application_Identification
