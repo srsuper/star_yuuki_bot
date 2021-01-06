@@ -12,6 +12,6 @@ LINE:
     LongPoll_path: /lib
 
   Account:
-    X-Line-Application: LINE_Application_Identification
-    X-Line-Access: LINE_Application_AccessKey
+    X-Line-Application: 15a21aec7a0c6f363b3c264c1c97da4f
+    X-Line-Access: yBZc3B7yxD2Afe8H/npJcqL96QrxQUtzd1ua/CzfKxP6HMTJpQultDheBaa4tuy611xlDUqtS4inRcjnbbiFxECSt/g4k7t4KRl2ObgKzPTgK8VM9ryMmFLjtLBrTInmNK3AP1DzpT5kTAYoBdK0yAFIS9xybk1bpjJUhI9NTk0=
     User-Agent: LINE_Application_User-Agent
